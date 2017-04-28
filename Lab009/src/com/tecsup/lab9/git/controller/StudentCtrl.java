@@ -5,7 +5,8 @@ public class StudentCtrl {
 	public void Student() {
 		String edad;
 		String sexo;
-		String nombre;
+	    
+		
 	}
 
 }

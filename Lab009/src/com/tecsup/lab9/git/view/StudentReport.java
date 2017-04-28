@@ -6,3 +6,4 @@ public class StudentReport {
 	String dni;
 	String correo;
 }
+
